@@ -5,6 +5,6 @@ Features:
 - 4 layer pcb for low noise reliable operation
 - 2x 24pin sealed automotive connectors
 
-Open source design so build ypur own or available for purchase as pcb fitted with all smd components only (less connectors and arduino mini mega and other throughhole components) or complete in box (tested on a real engine) with mating loom connectors.
+Open source design so build your own or available for purchase as pcb fitted with all smd components only (less connectors and arduino mini mega and other throughhole components) or complete in box (tested on a real engine) with mating loom connectors.
 Purchase and further information available from www.kiwiefi.nz 
 
