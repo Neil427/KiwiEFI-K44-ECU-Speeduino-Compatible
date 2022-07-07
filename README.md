@@ -1,7 +1,7 @@
 # Speeduino-KiwiEFI-K44-ECU
 The KiwiEFI K44 ECU is designed to run Speeduino firmware and is designed to be 100% compatible with the Speeduino V0.4 Mega2560 pin specification. 
 In Tuner Studio select ecu type as V0.4.
-Features:
+  Features:
 - 4 layer pcb for good noise immunity, reliable operation.
 - 2x 24pin sealed automotive connectors.
 
