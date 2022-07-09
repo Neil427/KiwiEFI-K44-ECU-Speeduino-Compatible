@@ -4,7 +4,7 @@ In Tuner Studio select ecu type as V0.4.
   Features:
 - 4 layer pcb for good noise immunity, reliable operation.
 - 2x 24pin sealed automotive connectors.
-- See description file for full details.
+- See specifications file for full details.
 
 
 Open source design for those wishing to build from scratch.
