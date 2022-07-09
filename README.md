@@ -4,9 +4,14 @@ In Tuner Studio select ecu type as V0.4.
   Features:
 - 4 layer pcb for good noise immunity, reliable operation.
 - 2x 24pin sealed automotive connectors.
+- See description file for full details.
 
 
 Open source design for those wishing to build from scratch.
-Or available for purchase as pcb fitted with all smd components only (less connectors and arduino and other throughhole components), or complete in box (and tested on a real engine) with mating loom connectors.
+Or available for purchase fully built up with mating loom connectors, (with firmware/base tune loaded and tested on a real engine) from KiwiEFI website. 
+
 For purchase and further information re shipping and availability please visit www.kiwiefi.nz 
+
+If anyone would like to save some freight costs and purchase just the pcb fitted with all smd components only (i.e. less box, connectors, arduino, and all other throughhole components) please contact me through the website.
+
 
