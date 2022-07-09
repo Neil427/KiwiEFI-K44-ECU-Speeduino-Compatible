@@ -8,10 +8,9 @@ In Tuner Studio select ecu type as V0.4.
 
 
 Open source design for those wishing to build from scratch.
-Or available for purchase from KiwiEFI website fully built up with mating loom connectors, (firmware/base tune loaded and tested on a real engine) . 
 
-For purchase or further information re shipping and availability please visit www.kiwiefi.nz 
+Or available for purchase from www.kiwiefi.nz fully built up with mating loom connectors, (firmware/base tune loaded and tested on a real engine) . 
 
-If you would like to save some freight costs and purchase just the pcb fitted with all smd components only (i.e. less box, connectors, arduino, and all other throughhole components) please contact me through the website.
+If you would like to save some freight costs and purchase just the pcb fitted with all smd components only (i.e. less box, connectors, arduino, and all other throughhole components) please contact me through the website. www.kiwiefi.nz 
 
 
