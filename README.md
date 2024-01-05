@@ -6,6 +6,8 @@ In Tuner Studio select ecu type as V0.4.
 - 2x 24pin sealed automotive connectors.
 - See specifications file for full details.
 
+![image](https://github.com/Neil427/KiwiEFI-K44-ECU-Speeduino-Compatible/assets/67580691/cfb17d9a-b18c-42f1-bc72-99e9a68bf669)
+
 
 Open source design for those wishing to build from scratch.
 
